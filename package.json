@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/nicholasd-uci/node103/issues"
   },
-  "homepage": "https://github.com/nicholasd-uci/node103#readme"
+  "homepage": "https://github.com/nicholasd-uci/node103#readme",
+  "dependencies": {
+    "chalk": "^4.1.0"
+  }
 }
