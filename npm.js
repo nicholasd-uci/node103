@@ -9,8 +9,6 @@
 
 // ** Documentation for all your NPMs can be found in the "Usage Section"
 
+const chalk = require('chalk')
 
-// const chalk = require('chalk')
-
-
-// console.log(chalk.blue('Hello World!'))
+console.log(chalk.blue('Hello World!'))
