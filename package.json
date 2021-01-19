@@ -1,0 +1,20 @@
+{
+  "name": "node103",
+  "version": "1.0.0",
+  "description": "Node Package Manager (NPM) installation instructions. These package are basically apps for your development needs.  We also review what a gitignore file that helps us manage all of our node packages.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nicholasd-uci/node103.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nicholasd-uci/node103/issues"
+  },
+  "homepage": "https://github.com/nicholasd-uci/node103#readme"
+}
