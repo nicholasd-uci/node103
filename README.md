@@ -6,7 +6,7 @@
 
 ## How do you install NPM?
 
-> In order to install and use a variety of NPM packages follow the steps below. 
+> In order to install and use a variety of NPM packages follow the steps below in your terminal. 
 
 ***Figure One***
 
