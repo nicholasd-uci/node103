@@ -8,10 +8,16 @@
 
 > In order to install and use a variety of NPM packages follow the steps below. 
 
-[]()
+***Figure One***
+
+![NPM](./photos/NPM.jpg)
+
+***npm i Chalk***
+
+![]()
 
 
-##
+## npm i Inquirer
 
 
 ## LINKS
