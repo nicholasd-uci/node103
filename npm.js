@@ -6,7 +6,6 @@
 //  **command 4. repeat process for all new repositories
 
 //  **HINT** if you are pulling from another repo use "npm i" 
-// ** Documentation for all your NPMs can be found in the "Usage Section"
 
 const chalk = require('chalk')
 
