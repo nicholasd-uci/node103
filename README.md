@@ -17,10 +17,8 @@
 ![]()
 
 > Reference Source
-```
 - [npm chalk](https://www.npmjs.com/package/chalk)
-```
-~~ Hello World ~~
+
 
 ## npm i Inquirer
 
