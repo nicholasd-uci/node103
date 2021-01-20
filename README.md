@@ -18,6 +18,7 @@
 
 > Reference Source
 - [npm chalk](https://www.npmjs.com/package/chalk)
+- [github chalk-animation](https://github.com/bokub/chalk-animation)
 
 
 ## npm i Inquirer

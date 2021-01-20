@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/nicholasd-uci/node103#readme",
   "dependencies": {
-    "chalk": "^4.1.0"
+    "chalk": "^4.1.0",
+    "chalk-animation": "^1.6.0"
   }
 }
