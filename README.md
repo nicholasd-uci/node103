@@ -16,26 +16,27 @@
 
 ![npm_i](./video/npm_i.gif)
 
-> Reference Source
+> Source Reference
 - [npm chalk](https://www.npmjs.com/package/chalk)
 - [github chalk-animation](https://github.com/bokub/chalk-animation)
 
 
-## npm i Inquirer
+## npm i inquirer
 
 > Here is an example of how "Inquirer" works.
-    - type in terminal npm i inquirer
+
+> Type in terminal npm i inquirer
 
 ***npm i inquirer***
 
 ![inquirer.png](./photos/inquirer.png)
 
-***Enquirer Example***
+***Inquirer Example***
 
 ![inquirer](./video/inquirer.gif)
 
-> Reference Source
-- [npm chalk](https://www.npmjs.com/package/inquirer)
+> Source Reference
+- [npm inquirer](https://www.npmjs.com/package/inquirer)
 
 ## LINKS
 

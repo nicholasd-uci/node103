@@ -1,9 +1,7 @@
 const inquirer = require('inquirer')
-
-// reserve function === its a function that calls itself 
+ 
 const question = () => {
 
-    // the inquirer is being called from line 16 and then we are letting it know to Prompt questions below.
     inquirer
         .prompt([
             {
