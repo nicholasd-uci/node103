@@ -14,7 +14,7 @@
 
 ***npm i Chalk***
 
-![]()
+![npm_i](./video/npm_i.gif)
 
 > Reference Source
 - [npm chalk](https://www.npmjs.com/package/chalk)
