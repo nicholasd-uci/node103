@@ -23,6 +23,19 @@
 
 ## npm i Inquirer
 
+> Here is an example of how "Inquirer" works.
+    - type in terminal npm i inquirer
+
+***npm i inquirer***
+
+![inquirer.png](./photos/inquirer.png)
+
+***Enquirer Example***
+
+![inquirer](./video/inquirer.gif)
+
+> Reference Source
+- [npm chalk](https://www.npmjs.com/package/inquirer)
 
 ## LINKS
 
