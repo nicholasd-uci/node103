@@ -1,3 +1,45 @@
+// Pulling array values
+
+let numbers = [1, 2, 3, 4, 5]
+
+let a = numbers[0]
+let b = numbers[1]
+let c = numbers[2]
+
+console.log(a, b, c)
+
+// ------------------------------------
+
+// Destructuring array values
+
+let [ ,,, a, b ] = numbers
+
+console.log(a, b)
+
+// ------------------------------------
+
+// Pulling object properties
+
+let dog = {
+  name: 'Beef',
+  age: 2,
+  breed: 'Chihuahua'
+}
+
+let name = dog.name
+let age = dog.age
+let breed = dog.breed
+
+console.log(name, age, breed)
+
+// ------------------------------------
+
+// Destructuring object properties
+
+let { name, age, breed } = dog
+
+console.log(name, age, breed)
+
 // Array filtered with for loop
 
 let numbers = [1, 2, 3, 4, 5]
