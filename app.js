@@ -1,9 +1,8 @@
-const inquirer = require('inquirer')
+const { prompt } = require('inquirer')
  
 const question = () => {
 
-    inquirer
-        .prompt([
+    prompt([
             {
                 type: 'input',
                 name: 'name',
